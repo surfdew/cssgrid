@@ -18,6 +18,9 @@ https://jsfiddle.net/surfdew/pmL9o6bj/
 
 https://jsfiddle.net/surfdew/gb55n7jf/
 
+Span:
+https://jsfiddle.net/surfdew/spqt29nm/
+
 browser support: http://caniuse.com/#feat=css-grid
 polyfill: https://github.com/FremyCompany/css-grid-polyfill
 
