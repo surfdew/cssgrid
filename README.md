@@ -8,6 +8,10 @@ https://jsfiddle.net/surfdew/gmr6etnw/
 
 https://jsfiddle.net/surfdew/hwo466ut/
 
+https://jsfiddle.net/surfdew/zz5wLzwz/
+
+https://jsfiddle.net/surfdew/qu44g5L3/
+
 Slack Channel:  surfdew.slack.com
 To request an invite email consulting@surfdew.com
 
