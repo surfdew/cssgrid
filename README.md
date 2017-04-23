@@ -18,6 +18,10 @@ https://jsfiddle.net/surfdew/pmL9o6bj/
 
 https://jsfiddle.net/surfdew/gb55n7jf/
 
+browser support: http://caniuse.com/#feat=css-grid
+polyfill: https://github.com/FremyCompany/css-grid-polyfill
+
+
 Slack Channel:  surfdew.slack.com
 To request an invite email consulting@surfdew.com
 
