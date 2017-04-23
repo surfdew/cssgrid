@@ -21,6 +21,9 @@ https://jsfiddle.net/surfdew/gb55n7jf/
 Span:
 https://jsfiddle.net/surfdew/spqt29nm/
 
+auto-flow:
+https://jsfiddle.net/surfdew/7kc5uw7b/
+
 browser support: http://caniuse.com/#feat=css-grid
 polyfill: https://github.com/FremyCompany/css-grid-polyfill
 
