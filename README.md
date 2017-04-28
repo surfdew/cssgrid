@@ -12,25 +12,27 @@ grid column auto assign:
 https://jsfiddle.net/surfdew/hwo466ut/3/
 
 min/max:  
-https://jsfiddle.net/surfdew/zz5wLzwz/
+https://jsfiddle.net/surfdew/zz5wLzwz/1/
 
 fit content:  
-https://jsfiddle.net/surfdew/qu44g5L3/
+https://jsfiddle.net/surfdew/qu44g5L3/1/
 
 fit content repeat:  
-https://jsfiddle.net/surfdew/76w6z932/
+https://jsfiddle.net/surfdew/76w6z932/1/
 
 named columns and rows:  
-https://jsfiddle.net/surfdew/pmL9o6bj/
+https://jsfiddle.net/surfdew/pmL9o6bj/1/
+
+https://css-tricks.com/snippets/css/complete-guide-grid/
 
 named template areas:  
 https://jsfiddle.net/surfdew/gb55n7jf/
 
-span:  
+span / nested:  
 https://jsfiddle.net/surfdew/spqt29nm/
 
 auto-flow:  
-https://jsfiddle.net/surfdew/7kc5uw7b/
+https://jsfiddle.net/surfdew/7kc5uw7b/1/
 
 responsive:  
 https://jsfiddle.net/surfdew/Luobmzja/
