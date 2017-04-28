@@ -9,7 +9,7 @@ named column:
 https://jsfiddle.net/surfdew/gmr6etnw/
 
 grid column auto assign:  
-https://jsfiddle.net/surfdew/hwo466ut/
+https://jsfiddle.net/surfdew/hwo466ut/3/
 
 min/max:  
 https://jsfiddle.net/surfdew/zz5wLzwz/
