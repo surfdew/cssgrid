@@ -5,7 +5,7 @@
 potential page layout:  
 https://jsfiddle.net/surfdew/bvc6g591/
 
-column defaults:  
+named column:  
 https://jsfiddle.net/surfdew/gmr6etnw/
 
 grid column auto assign:  
